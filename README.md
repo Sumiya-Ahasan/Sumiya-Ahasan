@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumiya Ahasan</h1>
-<h3 align="center">Life race will end soon</h3>
+<h3 align="center">Turning coffee into code.</h3>
 
 - 📫 How to reach me **sumiya5228ahasan@gmail.com**
 
